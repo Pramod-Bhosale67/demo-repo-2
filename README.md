@@ -1,2 +1,2 @@
 # demo-repo-2
-Code Greedy Website
+This is my first repo
